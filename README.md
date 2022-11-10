@@ -1,7 +1,7 @@
 01 Nom: Royer
 01 github:
 02 Nom: Quentin Sellam
-02 github:
+02 github: quentin-sellam
 03 Nom: Matthieu Colin
 03 github: colinmatthieu
 04 Nom: Matthieu Claudon
