@@ -1,5 +1,5 @@
 01 Nom: Royer
-01 github: SushiOfDestiny
+01 github:
 02 Nom:
 02 github:
 03 Nom:
