@@ -1,5 +1,5 @@
 01 Nom: Royer
-01 github:
+01 github: SushiOfDestiny
 02 Nom: Quentin Sellam
 02 github:
 03 Nom: Matthieu Colin
